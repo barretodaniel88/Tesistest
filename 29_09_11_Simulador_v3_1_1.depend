@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1335687334 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\cuerpo.cpp
+	"cuerpo_h.h"
+
+1335681992 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\cuerpo_h.h
+	<iostream>
+
+1316660560 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\recta.cpp
+	"recta_h.h"
+
+1316660545 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\recta_h.h
+
+1335694347 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\sensor.cpp
+	"sensor_h.h"
+	<iomanip>
+	<math.h>
+	<float.h>
+	<iostream>
+
+1335317262 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\sensor_h.h
+	"cuerpo_h.h"
+
+1335692716 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\agente.cpp
+	"agente_h.h"
+
+1335681986 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\agente_h.h
+	"sensor_h.h"
+	<math.h>
+	<iostream>
+
+1335694394 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<float.h>
+	<iomanip>
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<iphlpapi.h>
+	<stdio.h>
+	<string>
+	<cstdlib>
+	<sstream>
+	"agente_h.h"
+	<GL/freeglut.h>
+	<GL/gl.h>
+
+1335687334 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\cuerpo.cpp
+	"cuerpo_h.h"
+
+1335681992 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\cuerpo_h.h
+	<iostream>
+
+1337836586 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<float.h>
+	<iomanip>
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<iphlpapi.h>
+	<stdio.h>
+	<string>
+	<cstdlib>
+	<sstream>
+	"agente_h.h"
+	<GL/freeglut.h>
+	<GL/gl.h>
+
+1335681986 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\agente_h.h
+	"sensor_h.h"
+	<math.h>
+	<iostream>
+
+1335317262 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\sensor_h.h
+	"cuerpo_h.h"
+
+1316660560 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\recta.cpp
+	"recta_h.h"
+
+1316660545 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\recta_h.h
+
+1335694347 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\sensor.cpp
+	"sensor_h.h"
+	<iomanip>
+	<math.h>
+	<float.h>
+	<iostream>
+
+1335692716 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1 - pepa\agente.cpp
+	"agente_h.h"
+

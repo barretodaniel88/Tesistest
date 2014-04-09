@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1335317268 source:f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<float.h>
+	<iomanip>
+	"connect_h.h"
+	<GL/freeglut.h>
+	<GL/gl.h>
+
+1316496124 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\cuerpo.h
+
+1316141782 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\agente.h
+	"cuerpo.h"
+	"sensor.h"
+	<math.h>
+	<iostream>
+
+1316488071 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\sensor.h
+	"cuerpo.h"
+
+1316562102 source:f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\cuerpo.cpp
+	"cuerpo_h.h"
+
+1316660560 source:f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\recta.cpp
+	"recta_h.h"
+
+1316395654 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\recta.h
+
+1316660743 source:f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\sensor.cpp
+	"sensor_h.h"
+	<iomanip>
+	<math.h>
+	<float.h>
+	<iostream>
+
+1317001990 source:f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\agente.cpp
+	"agente_h.h"
+
+1316135940 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\cuerpo_h.h
+
+1335317444 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\agente_h.h
+	"sensor_h.h"
+	<math.h>
+	<iostream>
+
+1335317262 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\sensor_h.h
+	"cuerpo_h.h"
+
+1316660545 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\recta_h.h
+
+1335316230 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\connect_h.h
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<iphlpapi.h>
+	<stdio.h>
+	"jsondecode.cpp"
+
+1335317555 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\jsondecode.cpp
+	"jsondecode_h.h"
+
+1335317538 f:\daniel\usb\tesis\codigos\20_09_11_simulador_v3_1\jsondecode_h.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	"agente_h.h"
+
+1316562102 source:f:\daniel\usb\tesis\codigos\24_04_12_simulador_v3_1_bkp\cuerpo.cpp
+	"cuerpo_h.h"
+
+1316135940 f:\daniel\usb\tesis\codigos\24_04_12_simulador_v3_1_bkp\cuerpo_h.h
+
+1316660560 source:f:\daniel\usb\tesis\codigos\24_04_12_simulador_v3_1_bkp\recta.cpp
+	"recta_h.h"
+
+1316660545 f:\daniel\usb\tesis\codigos\24_04_12_simulador_v3_1_bkp\recta_h.h
+
+1316660743 source:f:\daniel\usb\tesis\codigos\24_04_12_simulador_v3_1_bkp\sensor.cpp
+	"sensor_h.h"
+	<iomanip>
+	<math.h>
+	<float.h>
+	<iostream>
+
+1335317262 f:\daniel\usb\tesis\codigos\24_04_12_simulador_v3_1_bkp\sensor_h.h
+	"cuerpo_h.h"
+
+1316562102 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\cuerpo.cpp
+	"cuerpo_h.h"
+
+1316135940 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\cuerpo_h.h
+
+1335491967 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<float.h>
+	<iomanip>
+	"connect_h.h"
+	<GL/freeglut.h>
+	<GL/gl.h>
+
+1335317642 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\connect_h.h
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<iphlpapi.h>
+	<stdio.h>
+	"jsondecode.cpp"
+
+1335317555 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\jsondecode.cpp
+	"jsondecode_h.h"
+
+1335317538 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\jsondecode_h.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	"agente_h.h"
+
+1335317444 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\agente_h.h
+	"sensor_h.h"
+	<math.h>
+	<iostream>
+
+1335317262 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\sensor_h.h
+	"cuerpo_h.h"
+
+1316660560 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\recta.cpp
+	"recta_h.h"
+
+1316660545 f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\recta_h.h
+
+1316660743 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\sensor.cpp
+	"sensor_h.h"
+	<iomanip>
+	<math.h>
+	<float.h>
+	<iostream>
+
+1335485279 source:f:\daniel\usb\tesis\codigos\29_04_12_simulador_v3_1_1\agente.cpp
+	"agente_h.h"
+

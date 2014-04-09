@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="agente.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2216" topLine="124" />
+	</File>
+	<File name="agente_h.h" open="1" top="0" tabpos="7">
+		<Cursor position="38" topLine="0" />
+	</File>
+	<File name="cuerpo.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="189" topLine="0" />
+	</File>
+	<File name="cuerpo_h.h" open="1" top="0" tabpos="3">
+		<Cursor position="544" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="1264" topLine="33" />
+	</File>
+	<File name="recta.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="166" topLine="0" />
+	</File>
+	<File name="recta_h.h" open="1" top="0" tabpos="8">
+		<Cursor position="314" topLine="0" />
+	</File>
+	<File name="sensor.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2141" topLine="96" />
+	</File>
+	<File name="sensor_h.h" open="1" top="0" tabpos="5">
+		<Cursor position="36" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
